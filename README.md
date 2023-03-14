@@ -5,7 +5,7 @@
 #### 대표 문제
 - [에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 
-|    | 발표 문제    | 발표자     |
+| 주차  | 발표 문제    | 발표자     |
 |----|--------------|------------|
 | 1주차 |[분수 찾기](https://www.acmicpc.net/problem/1193)| [박진영](https://www.notion.so/1193-8e46ddfcf6e04fa9b368fe9ec99d5aa5) |
 |      |[다리 놓기](https://www.acmicpc.net/problem/1010)| [손승완](https://www.notion.so/1010-19a8444358e84b0aaa4130ec6b3a2b89) |
