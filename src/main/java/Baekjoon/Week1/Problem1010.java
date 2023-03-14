@@ -1,4 +1,4 @@
-package Baekjoon;
+package Baekjoon.Week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -37,5 +37,6 @@ public class Problem1010 {
             System.out.println(arr[M][N]);
         }
 
+        
     }
 }
