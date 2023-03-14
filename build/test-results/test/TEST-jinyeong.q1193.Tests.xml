@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jinyeong.q1193.Tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-14T11:28:18" hostname="LAPTOP-75ALFHN0" time="0.083">
+  <properties/>
+  <testcase name="1" classname="jinyeong.q1193.Tests" time="0.071"/>
+  <testcase name="2" classname="jinyeong.q1193.Tests" time="0.001"/>
+  <testcase name="3" classname="jinyeong.q1193.Tests" time="0.001"/>
+  <testcase name="4" classname="jinyeong.q1193.Tests" time="0.001"/>
+  <testcase name="7" classname="jinyeong.q1193.Tests" time="0.002"/>
+  <testcase name="8" classname="jinyeong.q1193.Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
